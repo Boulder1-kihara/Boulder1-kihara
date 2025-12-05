@@ -39,10 +39,13 @@ Currently, I am:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boulder1-kihara&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boulder1-kihara&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
+### 📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boulder1-kihara&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Boulder1-kihara's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boulder1-kihara&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Boulder1-kihara's Top Languages" />
+</a>
+</p>
 
 <div align="center">
  <br/>
