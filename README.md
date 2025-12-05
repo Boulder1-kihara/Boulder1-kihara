@@ -1,7 +1,5 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00c6ff&height=220&section=header&text=Abel%20Kihara&fontSize=65&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20AI%20and%20Flutter&descSize=25&descAlignY=75)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff&height=220&section=header&text=Abel%20Kihara&fontSize=65&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20AI%20and%20Flutter&descSize=25&descAlignY=75&width=1100" style="width:100%;" />
 </div>
 
 <div align="center">
@@ -19,9 +17,9 @@
 <div align="center">
 
 ### 🚀 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 
-👋 **Hi, I'm Abel!** I am a developer passionate about bridging the gap between **Mobile Apps** and **Artificial Intelligence**. 
+👋 **Hi, I'm Abel!** I am a developer passionate about bridging the gap between **Mobile Apps** and **Artificial Intelligence**.
 
 Currently, I am:
 * 📱 Building cross-platform apps with **Flutter**.
@@ -41,13 +39,10 @@ Currently, I am:
 
 <br/>
 
-### 📊 GitHub Stats
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boulder1-kihara&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Boulder1-kihara's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boulder1-kihara&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Boulder1-kihara's Top Languages" />
-</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Boulder1-kihara&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boulder1-kihara&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
 
 <div align="center">
  <br/>
