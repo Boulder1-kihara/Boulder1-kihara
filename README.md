@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://render.vercel.app/api?/type=waving&color=00c6ff&height=180&section=header&text=Abel%20Kihara&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Innovating%20with%20AI%20%26%20Flutter&descSize=20&descAlignY=60"/>
 </div>
-/.
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33E6F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Mobile+App+Developer+(Flutter);AI+%26+Machine+Learning+Researcher;Building+Tech+for+the+Future" alt="Typing SVG" />
